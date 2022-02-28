@@ -6,9 +6,7 @@ I used to be a Data Analyst, but made the transition to Software Engineering aft
 Outside of tech, I have a lot of interests that inspire me. I’m really into design, drawing, writing, and applying the little things I learn to my own personal sites. I’m really into music - Soul, Rap, Pop, Reggaeton, Salsa, and Bachata. I actually made a fake brand site for one of my favorite artists when I started to learn React and Redux (Also, feel free to check it out!). Also - in an unexpected interest pivot, I love boxing, and find martial arts amazing -  I’ve even had a couple of Amatuar Boxing matches in college :punch::punch::punch:. After all is said and done, I enjoy being open to new experiences and learning.
 
 Feel free to check out my Portfolio:
-<br />
-<br />
-<a href="https://alexanderbrooks.vercel.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/47277927/156075990-cf8a7a7f-1e6b-461a-8660-fd137a7d5db1.png" height="50" /></a>
+<a href="https://alexanderbrooks.vercel.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/47277927/156075990-cf8a7a7f-1e6b-461a-8660-fd137a7d5db1.png" height="25" /></a>
 
 <!--
 **al-brooks/al-brooks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

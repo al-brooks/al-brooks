@@ -7,6 +7,7 @@ Outside of tech, I have a lot of interests that inspire me. I’m really into de
 
 Feel free to check out my Portfolio:
 <br />
+<br />
 <a href="https://alexanderbrooks.vercel.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/47277927/156075990-cf8a7a7f-1e6b-461a-8660-fd137a7d5db1.png" height="50" /></a>
 
 <!--

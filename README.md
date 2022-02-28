@@ -1,6 +1,6 @@
 ### Hi there :v: I'm Alex
 
-I used to be a Data Analyst, but made the transition to Software Engineering after spending my free time the past 2 years learning about programming.Shout out to all of the great humans in tech out there who have developed and shared so much inspiring content, resources and help to those who want to learn - including me.
+I used to be a Data Analyst, but made the transition to Software Engineering after spending my free time the past 2 years learning about programming.Shout out to all of the great humans in tech out there who have developed and shared so much inspiring content, resources and have helped those who want to learn - including me.
 
 ⚡ Fun fact(s): 
 Outside of tech, I have a lot of interests that inspire me. I’m really into design, drawing, writing, and applying the little things I learn to my own personal sites. I’m really into music - Soul, Rap, Pop, Reggaeton, Salsa, and Bachata. I actually made a fake brand site for one of my favorite artists when I started to learn React and Redux (Also, feel free to check it out!). Also - in an unexpected interest pivot, I love boxing, and find martial arts amazing -  I’ve even had a couple of Amatuar Boxing matches in college :punch::punch::punch:. After all is said and done, I enjoy being open to new experiences and learning.

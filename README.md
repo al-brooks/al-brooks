@@ -3,9 +3,11 @@
 I used to be a Data Analyst, but made the transition to Software Engineering after spending my free time the past 2 years learning about programming. Shout out to all of the great humans in tech out there who have developed and shared so much inspiring content, resources and have helped those who want to learn - including me.
 
 :computer: Currently In-Progress:
+
 I've been learning modern C++ this year, as well as Data Structures & Algorithms in order to round out my skills. I've been really interested in creating backend software solutions, and C++ has always been a tool that I've been interested in learning because of the nuance and complexity that comes with it. Since I'm not coming from a traditional background in Computer Science, I'm doing everything I can to be able to produce the work expected from quality engineers.
 
 ⚡ Fun fact(s): 
+
 Outside of tech, I have a lot of interests that inspire me. I’m really into design, drawing, and writing.
 
 It can't be understated that I LOVE animation and story telling. I'm a huge Pixar, Marvel and Anime fan :star2:

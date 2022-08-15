@@ -8,9 +8,7 @@ I've been learning modern C++ this year, as well as Data Structures & Algorithms
 
 ⚡ Fun fact(s): 
 
-Outside of tech, I have a lot of interests that inspire me. I’m really into design, drawing, and writing.
-
-It can't be understated that I LOVE animation and story telling. I'm a huge Pixar, Marvel and Anime fan :star2:
+Outside of tech, I have a lot of interests that inspire me. I’m really into design, drawing, and writing. I LOVE animation and story telling :star2:
 
 I’m really into music - Soul, Rap, Pop, Reggaeton, Salsa, and Bachata. I actually made a fake brand site for one of my favorite artists when I started to learn React and Redux (Also, feel free to check it out!). Also - in an unexpected interest pivot, I love boxing, and find martial arts amazing -  I’ve even had a couple of Amatuar Boxing matches in college :punch::punch::punch:. After all is said and done, I enjoy being open to new experiences and learning.
 

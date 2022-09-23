@@ -6,12 +6,6 @@ I used to be a Data Analyst, but made the transition to Software Engineering aft
 
 I've been learning modern C++ this year, as well as Data Structures & Algorithms in order to round out my skills. I've been really interested in creating backend software solutions, and C++ has always been a tool that I've been interested in learning because of the nuance and complexity that comes with it. Since I'm not coming from a traditional background in Computer Science, I'm doing everything I can to be able to produce the work expected from quality engineers.
 
-⚡ Fun fact(s): 
-
-Outside of tech, I have a lot of interests that inspire me. I’m really into design, drawing, and writing. I LOVE animation and story telling :star2:
-
-I’m really into music - Soul, Rap, Pop, Reggaeton, Salsa, and Bachata. I actually made a fake brand site for one of my favorite artists when I started to learn React and Redux (Also, feel free to check it out!). Also - in an unexpected interest pivot, I love boxing, and find martial arts amazing -  I’ve even had a couple of Amatuar Boxing matches in college :punch::punch::punch:. After all is said and done, I enjoy being open to new experiences and learning.
-
 Feel free to check out my Portfolio:
 <a href="https://alexanderbrooks.vercel.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/47277927/156075990-cf8a7a7f-1e6b-461a-8660-fd137a7d5db1.png" height="25" /></a>
 

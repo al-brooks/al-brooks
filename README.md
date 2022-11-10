@@ -1,4 +1,4 @@
-### Hi there :v: I'm Alex
+### Hi there :v: I'm Alejandro
 
 I used to be a Data Analyst, but made the transition to Software Engineering after spending my free time the past 2 years learning about programming. Shout out to all of the great humans in tech out there who have developed and shared so much inspiring content, resources and have helped those who want to learn - including me.
 

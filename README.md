@@ -2,7 +2,7 @@
 
 I used to be a Data Analyst, but made the transition to Software Engineering after spending my free time learning about programming. Shout out to all of the great humans in tech out there who have developed and shared so much inspiring content, resources and have helped those who want to learn - including me.
 
-Now, after completing multiple courses, I am an Adobe Digital Academy Scholar and my goal is to work at a creative organization where I can contribute to products that help people express themselves.
+After completing multiple courses, I was selected to be an Adobe Digital Academy Scholar, and shortly after, received an internship opportunity at Adobe - where I spent six months as a Software Engineer Intern within Search, Discovery & Content AI. I learned so much, worked with great people, and am proud of the impact I made. Now I’m searching for my next opportunity where I hope to continue to push myself even further.
 
 Feel free to check out my Portfolio:
 <a href="https://alexanderbrooks.vercel.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/47277927/156075990-cf8a7a7f-1e6b-461a-8660-fd137a7d5db1.png" height="25" /></a>
